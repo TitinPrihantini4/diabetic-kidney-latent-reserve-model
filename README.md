@@ -14,7 +14,7 @@
 
 Albuminuria and estimated glomerular filtration rate (eGFR) are established axes for evaluating diabetic kidney disease, while cystatin C and frailty may provide additional information on filtration uncertainty and physiological vulnerability.
 
-This repository contains a theoretical mathematical-biology and computational-medicine framework developed to examine whether these interacting signals can be represented as a coupled dynamical system with a latent renal reserve potential.
+This repository contains a theoretical mathematical-biology and computational model developed to examine whether these interacting signals can be represented as a coupled dynamical system with a latent renal reserve potential.
 
 The model combines:
 
