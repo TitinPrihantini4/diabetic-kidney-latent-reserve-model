@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software or computational model, please cite it using the metadata below."
+
+title: "Diabetic Kidney Latent Reserve Model"
+
+type: software
+
+authors:
+  - name: "Prihantini"
+
+abstract: >-
+  A reproducible mathematical and computational for modelling
+  latent renal reserve potential in diabetes using coupled nonlinear
+  ordinary differential equations, dynamic risk surfaces, latent-state
+  classification, uncertainty and sensitivity analysis, and sequential
+  decision modelling.
+
+repository-code: "https://github.com/TitinPrihantini4/diabetic-kidney-latent-reserve-model"
+
+license: MIT
+
+version: 1.0.0
+
+keywords:
+  - diabetic kidney disease
+  - renal reserve
+  - mathematical modelling
+  - computational medicine
+  - dynamical systems
+  - dynamic risk surface
+  - sensitivity analysis
+  - uncertainty quantification
+  - optimal stopping
